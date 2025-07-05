@@ -1,0 +1,6 @@
+https://www.bilibili.com/opus/830797634583134281?from=search&spm_id_from=333.337.0.0
+https://www.bilibili.com/video/BV1YwcJeTEB3/?share_source=copy_web&vd_source=f0182cec3e36d07032b9aeecda64c075
+先看了这两。
+但是这玩意实在没找到解包的方法，我又不会编程，所以用了最笨的方法————装上Xunity后把游戏C一边，C出来两万句文本（当然有重复就是了）
+这真的算技术记录吗？呃总之是个没有办法的办法吧，这一部还是我自己人工汉的，所以当时基本上处于一种痛并快乐着的状态。
+不过UABEA可以提取CG并封回去，所以我汉了标题还加了个个人汉化。

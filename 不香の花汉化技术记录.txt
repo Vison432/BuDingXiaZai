@@ -1,0 +1,4 @@
+Tyrano是个底早就被摸穿了的引擎，照葫芦画瓢随便弄弄：
+https://www.bilibili.com/opus/565523703985171945?spm_id_from=333.788.0.0
+Steam版无封包，直接替换ks文件即可，而且Tyrano这玩意说白了是变种网页，自然也不存在什么中日文字符编码的问题。
+免费版多一层app.asar封包，按上面的网址把data压缩后重命名改.tpatch后缀即可（1.要找projectID，2.注意要从data这一级开始压缩，而不是app或者resources）
