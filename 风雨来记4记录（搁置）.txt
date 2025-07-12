@@ -1,6 +1,6 @@
 我不是很想做这个项目，因为NS现在的两种汉化实现形式分别是实机软破和模拟器+mod，最好是能像1代那样为正版制作补丁。
 当然这么考虑有很多原因，相关的法律风险也始终存在。（而且45两代同引擎，最好是能一起做掉啊）也许再等个两三年ns和psv一样在商业层面上死透了就会做了。
-20250712：搁置，字库问题解决不了，等3代弄完再说吧。
+20250712：搁置，字库问题解决不了，等3代弄完再说吧。文本倒是跑好了，有需要的去release里面的0094自取
 To comply with US laws, you have to buy the game and dump it using nxdumptool from a CFW-capable console to obtain a legal copy for emulation. Software distribution laws in other countries may vary.我擦白皮也太变态，还能有这种理由的
 
 
