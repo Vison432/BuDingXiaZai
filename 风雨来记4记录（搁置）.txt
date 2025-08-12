@@ -1,6 +1,3 @@
-(?:#(?:N|V)\([^)]*\)\s*)*([^,]+)
-(?:#(?:N|V)\([^)]*\)\s*)*([^,]+)
-(?:#(?:N|V)\([^)]*\)\s*)*([^,]+)
 我不是很想做这个项目，因为NS现在的两种汉化实现形式分别是实机软破和模拟器+mod，最好是能像1代那样为正版制作补丁。
 当然这么考虑有很多原因，相关的法律风险也始终存在。（而且45两代同引擎，最好是能一起做掉啊）也许再等个两三年ns和psv一样在商业层面上死透了就会做了。
 To comply with US laws, you have to buy the game and dump it using nxdumptool from a CFW-capable console to obtain a legal copy for emulation. Software distribution laws in other countries may vary.我擦白皮也太变态，还能有这种理由的
@@ -51,3 +48,4 @@ Get-ChildItem -Path $inputFolder -Filter *.txt | ForEach-Object {
 以上都是D一串写的，至于正则D一串似乎写不明白，扔给G一串得到了(?:#N\([^)]*\)|#V\([^)]*\))*([^#]+)
 把提出来的文本一看————呃，好像断得也不太漂亮，不过能把人名什么裁掉已经可以了。
 （后注：5代有了更好的正则）
+
